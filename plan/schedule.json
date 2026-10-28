@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T18:34:42+01:00",
+ "generated_at": "2026-10-28T18:44:14+01:00",
  "timezone": "Europe/Rome",
  "min_lead_hours": 24,
  "slots": [
@@ -37,15 +37,6 @@
    "kind": "video",
    "visibility": "scheduled",
    "publish_at": "2026-11-02T17:00+01:00",
-   "note": null
-  },
-  {
-   "delivery_id": "d-0005",
-   "manifest": "d-0005-carrington-1859.json",
-   "title": "The Day the Sky Wore Colour \u2014 The Carrington Event of 1859",
-   "kind": "video",
-   "visibility": "public",
-   "publish_at": "2026-11-03T17:00+01:00",
    "note": null
   }
  ],

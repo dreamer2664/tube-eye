@@ -1,106 +1,30 @@
 {
- "generated_at": "2026-10-28T17:34:29+00:00",
- "online": true,
+ "generated_at": "2026-10-28T17:44:14+00:00",
+ "online": false,
  "deliveries": {
   "d-0001-signal-at-37-5.json": {
    "ok": true,
    "errors": [],
    "id": "d-0001",
-   "kind": "video",
-   "assets": {
-    "video": {
-     "status": 200,
-     "bytes": 670154285
-    },
-    "thumbnail": {
-     "status": 200,
-     "bytes": 1684090
-    },
-    "captions": {
-     "status": 200,
-     "bytes": 11173
-    }
-   }
+   "kind": "video"
   },
   "d-0002-chronoscope.json": {
    "ok": true,
    "errors": [],
    "id": "d-0002",
-   "kind": "video",
-   "assets": {
-    "video": {
-     "status": 200,
-     "bytes": 254731281
-    },
-    "thumbnail": {
-     "status": 200,
-     "bytes": 174407
-    },
-    "captions": {
-     "status": 200,
-     "bytes": 5951
-    }
-   }
+   "kind": "video"
   },
   "d-0003-thaumatrope.json": {
    "ok": true,
    "errors": [],
    "id": "d-0003",
-   "kind": "video",
-   "assets": {
-    "video": {
-     "status": 200,
-     "bytes": 46604481
-    },
-    "thumbnail": {
-     "status": 200,
-     "bytes": 274814
-    },
-    "captions": {
-     "status": 200,
-     "bytes": 7970
-    }
-   }
+   "kind": "video"
   },
   "d-0004-praxinoscope.json": {
    "ok": true,
    "errors": [],
    "id": "d-0004",
-   "kind": "video",
-   "assets": {
-    "video": {
-     "status": 200,
-     "bytes": 177228405
-    },
-    "thumbnail": {
-     "status": 200,
-     "bytes": 744764
-    },
-    "captions": {
-     "status": 200,
-     "bytes": 9218
-    }
-   }
-  },
-  "d-0005-carrington-1859.json": {
-   "ok": true,
-   "errors": [],
-   "id": "d-0005",
-   "kind": "video",
-   "assets": {
-    "video": {
-     "status": 200,
-     "bytes": 77390491
-    },
-    "thumbnail": {
-     "status": 200,
-     "bytes": 1634066
-    },
-    "captions": {
-     "status": 200,
-     "bytes": 18206
-    }
-   }
+   "kind": "video"
   }
  }
 }
