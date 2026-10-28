@@ -50,6 +50,19 @@ wrong, you record it and move on; you do not improvise.
 
 ## Session bootstrap
 
+0. **Run the preflight first — it does steps 1 and 2 for you, in one command,
+   and refuses to be optimistic:**
+
+   ```bash
+   export PC_EYE_URL=https://<tunnel>.trycloudflare.com
+   export PC_EYE_TOKEN=<32 hex chars>
+   python3 src/preflight.py --act
+   ```
+
+   `READY` (exit 0/2) → continue. `NOT READY` (exit 1) → read the failing line
+   and follow it; it names the fix. [CONNECTION.md](CONNECTION.md) explains
+   every check. The token's *value* never enters a report or a file.
+
 1. `GET /selftest` — report every line, including anything red and
    `TEST-MODE`. If `dry_run` is true anywhere, stop: nothing you do is real.
 2. `GET /state` — confirm `coord_space.consistent: true`. If not, stop and

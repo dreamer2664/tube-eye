@@ -37,9 +37,12 @@ stop dying in releases.
 | What | Where |
 |---|---|
 | Cold brief for the posting agent | [POSTER.md](POSTER.md) — read it, then the plan |
+| Cold brief for the **video-making** agents | [PRODUCERS.md](PRODUCERS.md) — the whole job, in one read |
+| How the PC link works and is proven | [CONNECTION.md](CONNECTION.md) + `python3 src/preflight.py` |
 | How producers deliver a video | [DELIVERY.md](DELIVERY.md) + [`deliveries/TEMPLATE.json`](deliveries/TEMPLATE.json) |
 | The afternoon split & handoff | [SHIFTS.md](SHIFTS.md) |
 | Publish cadence, shift times, lead window | [config.json](config.json) |
+| **Preflight: is the PC link real, is there work?** | `python3 src/preflight.py [--act] [--queue-only]` |
 | Validation | `python3 src/intake.py [--online]` → `plan/intake_report.json` |
 | Slot assignment | `python3 src/scheduler.py --print` → `plan/schedule.json` |
 | Proof of posting | `receipts/<delivery_id>.json`, one per posted video |
@@ -81,17 +84,34 @@ that needs the human's legal hands.
 ## Tests
 
 ```bash
-python3 tests/run_all.py     # 26 tests: schema rules, slot logic, shipped manifests
+python3 tests/run_all.py     # 44 tests: schema rules, slot logic, shipped manifests,
+                             #            and the pc-eye handshake against a stub
 ```
 
-CI (`.github/workflows/ci.yml`) runs the suite plus an offline intake on
-every push, so a malformed delivery can never sit silently in the queue.
+CI (`.github/workflows/ci.yml`) runs the suite, an offline intake and a
+queue-only preflight on every push, so a malformed delivery can never sit
+silently in the queue.
+
+## Before every shift
+
+The link to the PC is the one part CI cannot prove: the tunnel gets a new
+hostname on every `start.bat`. So it is checked on the spot, in one command:
+
+```bash
+export PC_EYE_URL=https://<tunnel>.trycloudflare.com   # from start.bat
+export PC_EYE_TOKEN=<32 hex chars>                     # from start.bat
+python3 src/preflight.py --act
+```
+
+`READY` → post. `NOT READY` → the failing line names the fix (dead tunnel,
+dry-run server, eyes and hand in different pixel spaces, blind capture…).
+See [CONNECTION.md](CONNECTION.md) for what each check means.
 
 ## Relation to the other repos
 
 * [`pc-eye`](https://github.com/dreamer2664/pc-eye) — the eye and hand. Its
   PC-EYE.md is in force for the posting agent; POSTER.md adds only the
-  YouTube specifics.
+  YouTube specifics, CONNECTION.md the handshake that proves they are talking.
 * [`chesseye`](https://github.com/dreamer2664/chesseye) — the afternoon
   peer. SHIFTS.md is the treaty between the two.
 * [`storagecode`](https://github.com/dreamer2664/storagecode) — final videos

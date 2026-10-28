@@ -18,6 +18,14 @@ jobs:
         run: python3 tests/run_all.py
       - name: intake (offline)
         run: python3 src/intake.py
+      - name: preflight (queue half, no PC needed)
+        run: |
+          set +e
+          python3 src/preflight.py --queue-only --json > /tmp/pf.json
+          code=$?
+          # 0 = green, 2 = warnings only (e.g. an empty queue). 1 is a real failure.
+          test "$code" -eq 0 -o "$code" -eq 2 || { cat /tmp/pf.json; exit 1; }
+          python3 -c "import json;d=json.load(open('/tmp/pf.json'));print('preflight:',d['verdict'])"
       - name: scheduler is deterministic
         run: |
           python3 src/scheduler.py
