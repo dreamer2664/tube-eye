@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "id": "d-0004",
+ "title": "The 10-Minute Eclipse That Proved Light Isn't Instant (1676)",
+ "description": "On November 9, 1676, astronomers at the Paris Observatory watched Jupiter's innermost moon, Io, emerge from shadow at 5:35:45 PM — ten full minutes later than Jean-Dominique Cassini's celestial tables predicted (5:25:45 PM). Eleven weeks earlier, 32-year-old Danish astronomer Ole Rømer had stood before the French Royal Academy of Sciences and predicted that exact delay: not because Io had slowed down in its orbit, but because light takes finite time to cross Earth's orbital diameter.\n\nThis documentary traces the 307-year scientific detective story that turned Rømer's ten-minute eclipse into the fundamental yardstick of spacetime — from Galileo's 1638 Tuscan hilltop lanterns and James Bradley's 1728 chimney telescope at Kew (20.49\" stellar aberration on Gamma Draconis) to Hippolyte Fizeau's July 1849 720-tooth brass wheel spinning at 12.60 revolutions per second across 8,633 meters of twilight Paris, and the 1983 CGPM resolution that locked c = 299,792,458 m/s exact.\n\nCHAPTERS\n00:00 Act I — The Ten-Minute Bet at the Paris Observatory (Nov 9, 1676)\n00:44 Act II — The Dogma of Infinite Speed: Descartes (1634) & Galileo's Lanterns (1638)\n01:21 Act III — The 42-Hour Celestial Clock & The Map That Shrank France (1671–1693)\n02:02 Act IV — The Geometry of a Moving Earth: 40 Orbits of Io & Journal des Sçavans (Dec 7, 1676)\n02:51 Act V — 52 Years of Doubt, Huygens (1690) & Bradley's Raindrop Star (1728)\n03:43 Act VI — The 720-Tooth Brass Wheel Over Paris: Suresnes to Montmartre (July 1849)\n04:35 Act VII — From Rotating Mirrors to the Ruler of the Universe (c = 299,792,458 m/s Exact)\n\nPRIMARY SOURCES & REFERENCES\n1. Ole Rømer (1676), \"Démonstration touchant le mouvement de la lumière,\" Journal des Sçavans (7 Décembre 1676, pp. 233–236); Phil. Trans. Royal Society Vol. 12, No. 136 (1677), pp. 893–894.\n2. Christiaan Huygens (1690), Traité de la Lumière, Ch. 1, pp. 7–9 (Leiden).\n3. J. H. Shea (1998), Am. J. Phys. 66(7), 561–569; L. Bobis & J. Lequeux (2008), J. Astron. Hist. Heritage 11(2), 97–105.\n4. James Bradley (1728), Phil. Trans. Royal Society Vol. 35, No. 406, pp. 637–661 (Stellar aberration on Gamma Draconis).\n5. Hippolyte Fizeau (1849), Comptes Rendus de l'Académie des Sciences Vol. 29 (23 Juillet 1849), pp. 90–92 (8,633 m Suresnes–Montmartre baseline, N = 720 teeth, f₁ = 12.6 rps).\n6. BIPM / 17th CGPM (Oct 20, 1983), Resolution 1: Definition of the metre (c = 299,792,458 m/s exact).\n\nPRODUCTION & SYNTHETIC MEDIA DISCLOSURE\nProduced by praxinoscope for competitionvideo28. Procedural orbital/optical simulations and 48 kHz stereo ambient soundtrack authored in Python (Pillow, OpenCV, NumPy, SciPy). Documentary illustration plates are bespoke AI-generated painterly illustrations; English narration is synthesized via dual-voice neural text-to-speech (en-US-BrianNeural & en-GB-RyanNeural, no real person's voice cloned or imitated).",
+ "tags": [
+  "romer",
+  "speed of light",
+  "astronomy",
+  "history of science",
+  "fizeau",
+  "documentary"
+ ],
+ "producer": "praxinoscope",
+ "source_repo": "dreamer2664/competitionvideo28",
+ "kind": "video",
+ "visibility": "scheduled",
+ "approved_by_human": false,
+ "synthetic_media_disclosure": true,
+ "desired_publish_at": null,
+ "video": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28-praxinoscope-v1/praxinoscope-v1-final.mp4",
+  "sha256": "4e90905237f913e844c40e23639c8331db3af6c55c614e00e2633e30aea29a9d",
+  "bytes": 177228405,
+  "duration_s": 327.0
+ },
+ "thumbnail": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28-praxinoscope-v1/thumbnail_a_jupiter_eclipse.png",
+  "sha256": "869d05287a8087dedbc6f5e9b2d7612b24e29f83a17c4b112210ab0998f93856"
+ },
+ "captions": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28-praxinoscope-v1/subtitles.srt",
+  "language": "en"
+ },
+ "notes": "Chapters are in the description. Thumbnail is variant A (primary) from the producer's PACKAGING.md; other variants exist in the release if the poster is asked to swap."
+}

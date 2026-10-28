@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "id": "d-0003",
+ "title": "Why 12 Undersea Cables Snapped in Exact Order (1929)",
+ "description": "On November 18, 1929, six transatlantic telegraph cables snapped during a Grand Banks earthquake—and then six deeper cables broke in strict north-to-south order over the next 13 hours and 17 minutes.\nTwenty-three years later, those forgotten Western Union repair logs revealed giant underwater avalanches that still threaten 99% of intercontinental internet traffic today.\n\nCHAPTERS\n00:00 Six Cables Go Dead at 20:32 UTC\n00:39 How 1929 Engineers Located Breaks in Total Darkness\n01:22 Vladimir de Smitt's 13-Hour, 17-Minute Stopwatch\n02:06 Why 23 Years of Fault & Tsunami Theories Failed\n02:36 Philip Kuenen's Tank & Heezen and Ewing's 1952 Breakthrough\n03:32 Piston Cores on the Sohm Abyssal Plain: Physical Proof\n04:11 From 1929 Copper to 2022 Hunga Tonga & Global Subsea Fiber\n\nPRIMARY SOURCES & FURTHER READING\n• Heezen, B. C., & Ewing, M. (1952). \"Turbidity currents and submarine slumps, and the 1929 Grand Banks earthquake.\" American Journal of Science, 250(12), 849–873: https://gwern.net/doc/technology/1952-heezen.pdf\n• Piper, D. J. W., Shor, A. N., & Hughes Clarke, J. E. (1988). \"The 1929 'Grand Banks' earthquake, slump, and turbidity current.\" GSA Special Paper 229, 77–92.\n• Fine, I. V., et al. (2005). \"The Grand Banks landslide-generated tsunami of November 18, 1929.\" Marine Geology, 215, 45–57: https://www.sciencedirect.com/science/article/abs/pii/S002532270400324X\n• Heezen, B. C., Tharp, M., & Ewing, M. (1959). \"The Floors of the Oceans: I. The North Atlantic.\" GSA Special Paper 65: https://www.gutenberg.org/files/49069/49069-h/49069-h.htm\n• Clare, M. A., et al. (2023). \"Fast and destructive density currents created by ocean-entering volcanic eruptions.\" Science, 381(6662), 1085–1090: https://www.science.org/doi/10.1126/science.adi3038\n• International Cable Protection Committee (ICPC, Nov 2025). \"Submarine Cable Protection and the Environment\": https://www.iscpc.org/publications/submarine-cable-protection-and-the-environment/ICPC_Public_EU_November_2025.pdf\n\nPRODUCTION & SYNTHETIC MEDIA DISCLOSURE\nProduced by thaumatrope. Stylized historical/underwater documentary illustrations were generated synthetically alongside custom-coded Python scientific diagrams and cartography; voiceover uses neural text-to-speech (en-US-AndrewNeural) with an original synthesized stereo score. Every historical timestamp, coordinate, depth, and velocity figure is drawn from peer-reviewed geophysical literature.",
+ "tags": [
+  "1929",
+  "grand banks",
+  "submarine cables",
+  "geology",
+  "history",
+  "documentary"
+ ],
+ "producer": "thaumatrope",
+ "source_repo": "dreamer2664/competitionvideo28",
+ "kind": "video",
+ "visibility": "scheduled",
+ "approved_by_human": false,
+ "synthetic_media_disclosure": true,
+ "desired_publish_at": null,
+ "video": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28-thaumatrope-v1/thaumatrope-v1-final.mp4",
+  "sha256": "41e128972fe7e2b6a6dc07604bd2354d40ba42dddec9fdaafeec3fc48bef4c5b",
+  "bytes": 46604481,
+  "duration_s": 319.967
+ },
+ "thumbnail": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28-thaumatrope-v1/thaumatrope-v1-thumbnail-A.jpg",
+  "sha256": "bbc7d026c2422e3acc0fe587e39d99969ea6a7bbe735f037c23920375001a739"
+ },
+ "captions": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28-thaumatrope-v1/thaumatrope-v1-final.srt",
+  "language": "en"
+ },
+ "notes": "Chapters are in the description. Thumbnail is variant A (primary) from the producer's PACKAGING.md; other variants exist in the release if the poster is asked to swap."
+}

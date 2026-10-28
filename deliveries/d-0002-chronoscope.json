@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "id": "d-0002",
+ "title": "Thirty Bronze Wheels: The 2,000-Year-Old Computer That Predicted Eclipses",
+ "description": "In 1900 a Greek sponge diver surfaced with a lump of corroded bronze from a Roman\nshipwreck 42 metres down. It took 103 years and an eight-tonne X-ray scanner to read\nwhat was inside: thirty interlocking bronze wheels that calculated the calendar,\npredicted eclipses by month and hour, and modelled the Moon's changing orbital speed.\n\nThis film opens the mechanism piece by piece — the actual tooth counts, the actual\nprime factorisations, the pin-and-slot trick that reproduces Hipparchus's lunar\ntheory 1,700 years before Kepler — and ends with the 2021 reconstruction of the\nlost planetary front.\n\nEvery gear is drawn at its historical tooth count. Every animation runs on the real\nratios. No stock footage: the plates are original illustrations, the diagrams are\ngenerated from the same numbers the film discusses.\n\nCHAPTERS\n00:00.00 A diver, a cliff, and a ship that sank around 70 BC\n00:15.23 Athens, 1902: gear teeth in a calcified lump\n00:32.47 Thirty bronze wheels\n00:48.47 Why the calendar refuses to divide\n01:07.50 Nineteen years, 235 months, 254 orbits\n01:27.73 Turning 254/19 into bronze\n01:47.97 The real train: 64/38 x 48/24 x 127/32\n02:07.10 Eight tonnes of X-rays\n02:25.07 Fifty-micron slices\n02:40.00 Reading the instrument's own manual\n02:54.17 The five-turn calendar spiral\n03:11.30 223 months: the three cycles converge\n03:28.73 The Saros dial and the Exeligmos\n03:46.37 Why the Moon speeds up and slows down\n04:02.00 A pin, a slot, and Hipparchus\n04:19.00 The turntable that precesses the apogee\n04:38.13 2021: the front plate decoded\n04:53.60 Seven wanderers on concentric rings\n05:11.43 Coda: the sky in your hands\n\nSOURCES\nFreeth et al., \"Decoding the ancient Greek astronomical calculator known as the\nAntikythera Mechanism\", Nature 444, 587–591 (2006).\nFreeth, Jones, Steele & Bitsakis, \"Calendars with Olympiad display and eclipse\nprediction on the Antikythera Mechanism\", Nature 454, 614–617 (2008).\nFreeth et al., \"A Model of the Cosmos in the Antikythera Mechanism\",\nScientific Reports 11, 5821 (2021).\nPrice, D. J. de Solla, \"Gears from the Greeks\", Trans. Am. Phil. Soc. 64:7 (1974).\nJones, A., A Portable Cosmos, Oxford University Press (2017).\n\nNarration is synthetic (Kokoro-82M, Apache-2.0) and is labelled as such.\nScore, sound design, plates and diagrams are original and made by code.\nProduced by CHRONOSCOPE, 2026.",
+ "tags": [
+  "antikythera",
+  "ancient technology",
+  "history",
+  "archaeology",
+  "astronomy",
+  "documentary"
+ ],
+ "producer": "chronoscope",
+ "source_repo": "dreamer2664/competitionvideo28",
+ "kind": "video",
+ "visibility": "scheduled",
+ "approved_by_human": false,
+ "synthetic_media_disclosure": true,
+ "desired_publish_at": null,
+ "video": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28/chronoscope/r01/THIRTY-BRONZE-WHEELS_master.mp4",
+  "sha256": "b39b804bb3c02861d2c7df692c57ae023b50996dcb930db789e1033a4a75da15",
+  "bytes": 254731281,
+  "duration_s": 327.834
+ },
+ "thumbnail": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28/chronoscope/r01/thumb_1280x720.jpg",
+  "sha256": "00f4ed5cfe019c5bb586999f5529e056353ffafa78e952c93437d6a6e4895877"
+ },
+ "captions": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28/chronoscope/r01/subtitles.srt",
+  "language": "en"
+ },
+ "notes": "Chapters are in the description. Thumbnail is variant A (primary) from the producer's PACKAGING.md; other variants exist in the release if the poster is asked to swap."
+}

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T17:28:00+01:00",
+ "generated_at": "2026-10-28T17:52:18+01:00",
  "timezone": "Europe/Rome",
  "min_lead_hours": 24,
  "slots": [
@@ -10,6 +10,33 @@
    "kind": "video",
    "visibility": "scheduled",
    "publish_at": "2026-10-30T17:00+01:00",
+   "note": null
+  },
+  {
+   "delivery_id": "d-0002",
+   "manifest": "d-0002-chronoscope.json",
+   "title": "Thirty Bronze Wheels: The 2,000-Year-Old Computer That Predicted Eclipses",
+   "kind": "video",
+   "visibility": "scheduled",
+   "publish_at": "2026-10-31T17:00+01:00",
+   "note": null
+  },
+  {
+   "delivery_id": "d-0003",
+   "manifest": "d-0003-thaumatrope.json",
+   "title": "Why 12 Undersea Cables Snapped in Exact Order (1929)",
+   "kind": "video",
+   "visibility": "scheduled",
+   "publish_at": "2026-11-01T17:00+01:00",
+   "note": null
+  },
+  {
+   "delivery_id": "d-0004",
+   "manifest": "d-0004-praxinoscope.json",
+   "title": "The 10-Minute Eclipse That Proved Light Isn't Instant (1676)",
+   "kind": "video",
+   "visibility": "scheduled",
+   "publish_at": "2026-11-02T17:00+01:00",
    "note": null
   }
  ],
