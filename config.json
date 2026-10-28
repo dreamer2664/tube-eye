@@ -1,0 +1,23 @@
+{
+	"timezone": "Europe/Rome",
+	"channel": "TBD — the poster agent confirms the signed-in channel on first run and records it in receipts",
+	"long_form": {
+		"publish_time": "17:00",
+		"max_per_day": 1
+	},
+	"shorts": {
+		"publish_time": "13:00",
+		"max_per_day": 2
+	},
+	"min_lead_hours": 24,
+	"made_for_kids": false,
+	"posting_shift": {
+		"start": "15:00",
+		"end": "18:00",
+		"wrap_up": "17:45"
+	},
+	"chess_shift": {
+		"start": "18:00",
+		"end": "21:00"
+	}
+}

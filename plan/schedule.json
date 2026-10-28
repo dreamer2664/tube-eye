@@ -1,0 +1,17 @@
+{
+ "generated_at": "2026-10-28T15:56:55+01:00",
+ "timezone": "Europe/Rome",
+ "min_lead_hours": 24,
+ "slots": [
+  {
+   "delivery_id": "d-0001",
+   "manifest": "d-0001-signal-at-37-5.json",
+   "title": "The Signal at 37.5 \u2014 72 Seconds That Never Came Twice",
+   "kind": "video",
+   "visibility": "scheduled",
+   "publish_at": "2026-10-29T17:00+01:00",
+   "note": null
+  }
+ ],
+ "posted": []
+}

@@ -1,0 +1,26 @@
+{
+ "generated_at": "2026-10-28T14:57:17+00:00",
+ "online": true,
+ "deliveries": {
+  "d-0001-signal-at-37-5.json": {
+   "ok": true,
+   "errors": [],
+   "id": "d-0001",
+   "kind": "video",
+   "assets": {
+    "video": {
+     "status": 200,
+     "bytes": 670154285
+    },
+    "thumbnail": {
+     "status": 200,
+     "bytes": 1684090
+    },
+    "captions": {
+     "status": 200,
+     "bytes": 11173
+    }
+   }
+  }
+ }
+}

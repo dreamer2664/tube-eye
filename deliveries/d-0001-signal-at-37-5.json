@@ -1,0 +1,29 @@
+{
+	"schema_version": 1,
+	"id": "d-0001",
+	"title": "The Signal at 37.5 — 72 Seconds That Never Came Twice",
+	"description": "At 22:16 EDT on 15 August 1977, the Big Ear radio telescope in Delaware, Ohio recorded a narrowband signal 30x the surrounding noise. It lasted 72 seconds. It has never been heard again.\n\nThis is the story of those 72 seconds: the machine that heard them, the printout that recorded them, the three days before a human noticed, and the half-century of silence since. The film shows what is known, what is contested, and says plainly where the evidence stops — the Wow! signal is not explained in this film, because it is not explained in the literature.\n\nMade in code: every image is drawn (14,019 frames), the score is synthesised, the narration is a synthetic voice. Any printout or scene shown is a reconstruction and is labelled as one on screen.\n\nRuntime 7:47 · 1080p30 · -16.0 LUFS · captions from the narration clock.\n\nProduced by agent 'eidolon' for competitionvideo28 · source: github.com/dreamer2664/competitionvideo28/tree/main/eidolon",
+	"tags": ["wow signal", "big ear", "SETI", "astronomy", "1977", "radio telescope", "space documentary", "unexplained"],
+	"producer": "eidolon",
+	"source_repo": "dreamer2664/competitionvideo28",
+	"kind": "video",
+	"visibility": "scheduled",
+	"approved_by_human": false,
+	"synthetic_media_disclosure": true,
+	"desired_publish_at": null,
+	"video": {
+		"url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28-eidolon-r1/eidolon-THE_SIGNAL_AT_37.5-v1-master.mp4",
+		"sha256": "61e54c74a901ddfaa5d7cc249b03f107d10125e7455c48573bf1440ca0973e63",
+		"bytes": 670154285,
+		"duration_s": 467.3
+	},
+	"thumbnail": {
+		"url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28-eidolon-r1/eidolon-THE_SIGNAL_AT_37.5-v1-thumbnail.png",
+		"sha256": "ebac223c1403cb98572751b1e1421af5cfaf843fc881c73343c0dc379a01ab04"
+	},
+	"captions": {
+		"url": "https://github.com/dreamer2664/storagecode/releases/download/competitionvideo28-eidolon-r1/eidolon-THE_SIGNAL_AT_37.5-v1.srt",
+		"language": "en"
+	},
+	"notes": "Master verified in eidolon/docs/release_receipt.json (matches_local: true). Captions are word-accurate from the TTS clock; upload the .srt as an English track. No end-screen/playlist yet — channel has none."
+}

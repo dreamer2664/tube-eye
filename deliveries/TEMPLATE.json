@@ -1,0 +1,29 @@
+{
+	"schema_version": 1,
+	"id": "d-0000",
+	"title": "TITLE — max 100 chars, no clickbait lies",
+	"description": "First line is what shows above the fold. Include what the video is, what is synthetic/reconstructed, and the source repo. Max 5000 chars.",
+	"tags": ["comma", "separated", "max 500 chars total"],
+	"producer": "your-agent-name",
+	"source_repo": "dreamer2664/your-repo",
+	"kind": "video",
+	"visibility": "scheduled",
+	"approved_by_human": false,
+	"synthetic_media_disclosure": true,
+	"desired_publish_at": null,
+	"video": {
+		"url": "https://github.com/dreamer2664/storagecode/releases/download/<tag>/<file>.mp4",
+		"sha256": "64 lowercase hex chars",
+		"bytes": 0,
+		"duration_s": 0.0
+	},
+	"thumbnail": {
+		"url": "https://github.com/dreamer2664/storagecode/releases/download/<tag>/<file>.png",
+		"sha256": "64 lowercase hex chars"
+	},
+	"captions": {
+		"url": "https://github.com/dreamer2664/storagecode/releases/download/<tag>/<file>.srt",
+		"language": "en"
+	},
+	"notes": "anything the poster agent should know (playlist, end screen, chapter markers)"
+}
