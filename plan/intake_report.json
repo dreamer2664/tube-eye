@@ -1,30 +1,106 @@
 {
- "generated_at": "2026-10-28T17:44:14+00:00",
- "online": false,
+ "generated_at": "2026-10-28T18:25:29+00:00",
+ "online": true,
  "deliveries": {
   "d-0001-signal-at-37-5.json": {
    "ok": true,
    "errors": [],
    "id": "d-0001",
-   "kind": "video"
+   "kind": "video",
+   "assets": {
+    "video": {
+     "status": 200,
+     "bytes": 670154285
+    },
+    "thumbnail": {
+     "status": 200,
+     "bytes": 1684090
+    },
+    "captions": {
+     "status": 200,
+     "bytes": 11173
+    }
+   }
   },
   "d-0002-chronoscope.json": {
    "ok": true,
    "errors": [],
    "id": "d-0002",
-   "kind": "video"
+   "kind": "video",
+   "assets": {
+    "video": {
+     "status": 200,
+     "bytes": 254731281
+    },
+    "thumbnail": {
+     "status": 200,
+     "bytes": 174407
+    },
+    "captions": {
+     "status": 200,
+     "bytes": 5951
+    }
+   }
   },
   "d-0003-thaumatrope.json": {
    "ok": true,
    "errors": [],
    "id": "d-0003",
-   "kind": "video"
+   "kind": "video",
+   "assets": {
+    "video": {
+     "status": 200,
+     "bytes": 46604481
+    },
+    "thumbnail": {
+     "status": 200,
+     "bytes": 274814
+    },
+    "captions": {
+     "status": 200,
+     "bytes": 7970
+    }
+   }
   },
   "d-0004-praxinoscope.json": {
    "ok": true,
    "errors": [],
    "id": "d-0004",
-   "kind": "video"
+   "kind": "video",
+   "assets": {
+    "video": {
+     "status": 200,
+     "bytes": 177228405
+    },
+    "thumbnail": {
+     "status": 200,
+     "bytes": 744764
+    },
+    "captions": {
+     "status": 200,
+     "bytes": 9218
+    }
+   }
+  },
+  "d-0006-helium-found-in-the-sun-first.json": {
+   "ok": true,
+   "errors": [],
+   "id": "d-0006",
+   "kind": "video",
+   "assets": {
+    "video": {
+     "status": 200,
+     "bytes": 284546758
+    },
+    "thumbnail": {
+     "status": 200,
+     "bytes": 1614252
+    },
+    "captions": {
+     "status": 200,
+     "bytes": 11508
+    }
+   }
   }
  }
 }

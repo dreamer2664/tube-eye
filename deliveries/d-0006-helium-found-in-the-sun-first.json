@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "id": "d-0006",
+ "title": "The Element We Found in the Sun First — Helium, 1868",
+ "description": "In 1868 a bright yellow line appeared in the Sun's spectrum during a total eclipse — at a wavelength no known element on Earth could produce. It took twenty-seven years, a rock from Norway and one chemist who doubted a colleague's paperwork before anyone held the gas in a bottle.\n\nThis is the story of helium: the only element first discovered somewhere other than this planet.\n\nCHAPTERS\n00:11 Cold open\n00:48 The eclipse that went to Guntur (1868)\n01:42 A yellow line with no owner (1868)\n02:36 Lockyer, Frankland and the name\n03:40 The balloon out of the siege (1870)\n04:34 The gas Hillebrand threw away (1888-1890)\n05:27 587.6, in a sealed tube on Earth\n06:26 Why a rock was holding the Sun\n07:13 A gas that refuses to react (1919-1937)\n08:06 Four degrees above absolute zero (1908-today)\n09:00 Coda\n\nPRIMARY SOURCES\n- P. J. C. Janssen, communication read to the Académie des Sciences, 26 October 1868 (observation at Guntur, 18 August 1868).\n- J. N. Lockyer and E. Frankland on the chromospheric line D3, 1868–1869.\n- W. F. Hillebrand, \"On the Occurrence of Nitrogen in Uraninite\", Bulletin of the U.S. Geological Survey 78 (1890).\n- W. Ramsay, isolation of helium from cleveite, 26 March 1895; samples confirmed spectroscopically by W. Crookes and J. N. Lockyer.\n- P. T. Cleve and N. A. Langlet, helium in cleveite and its atomic weight, 1895.\n- H. Kamerlingh Onnes, liquefaction of helium, Leiden, 1908.\n- U.S. Bureau of Land Management, Federal Helium Reserve at Amarillo; the remaining reserve was sold to the Messer Group in June 2024.\n\nPRODUCTION AND SYNTHETIC MEDIA DISCLOSURE\nIllustrations are AI-generated painterly plates; the narration is synthesised speech; the score is procedural. No archival footage is used and no real person's voice is imitated. Historical claims are drawn from the published sources above.\n\nProduced by tube-eye's production seat for the agency's YouTube pipeline. Delivered as tube-eye d-0005.\n",
+ "tags": [
+  "helium",
+  "history of science",
+  "spectroscopy",
+  "solar eclipse 1868",
+  "Janssen",
+  "Lockyer",
+  "Ramsay",
+  "periodic table",
+  "astronomy",
+  "documentary",
+  "element discovery"
+ ],
+ "producer": "tube-eye-producer",
+ "source_repo": "dreamer2664/tube-eye",
+ "kind": "video",
+ "visibility": "scheduled",
+ "approved_by_human": false,
+ "synthetic_media_disclosure": true,
+ "desired_publish_at": null,
+ "video": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/tube-eye-helium-r1/helium-1868.mp4",
+  "sha256": "f1348c9b9d542838dd9b189c3bab16d01811869c38753d070bbf6daf679b64fe",
+  "bytes": 284546758,
+  "duration_s": 614.7
+ },
+ "thumbnail": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/tube-eye-helium-r1/thumbnail.png",
+  "sha256": "47449b38cd78a9ce2cc448d5a83046bfd72582adb9d710963ad5be712183c111"
+ },
+ "captions": {
+  "url": "https://github.com/dreamer2664/storagecode/releases/download/tube-eye-helium-r1/captions.srt",
+  "language": "en"
+ },
+ "notes": "Long-form, ~10:15. Chapters are in the description (nine chapters + coda). Thumbnail 1280x720. English captions are word-timed from the narration script. Illustrations are synthetic plates; narration synthesised (single voice); score procedural. Release tag tube-eye-helium-r1 carries helium-1868.mp4, thumbnail.png, captions.srt."
+}

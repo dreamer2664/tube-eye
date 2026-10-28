@@ -1,0 +1,491 @@
+1
+00:00:10,550 --> 00:00:14,832
+Before any human being had ever held it in a bottle, we knew
+
+2
+00:00:14,832 --> 00:00:19,184
+this element existed. Its first sample was not dug out of the
+
+3
+00:00:19,184 --> 00:00:23,677
+ground. It was not boiled out of a rock, or squeezed out of the
+
+4
+00:00:23,677 --> 00:00:27,959
+air. It arrived as a single bright yellow line, drawn in the
+
+5
+00:00:27,959 --> 00:00:32,521
+light of the Sun, on a photographic plate exposed during a total
+
+6
+00:00:32,521 --> 00:00:36,593
+eclipse. For twenty seven years, that line was the entire
+
+7
+00:00:36,593 --> 00:00:40,804
+evidence. One line, and a name. The name was helium. And in
+
+8
+00:00:40,804 --> 00:00:45,227
+1868, its only known address was one hundred and fifty million
+
+9
+00:00:45,227 --> 00:00:46,420
+kilometres away.
+
+10
+00:00:48,320 --> 00:00:52,938
+August the eighteenth, 1868. A total eclipse sweeps east across
+
+11
+00:00:52,938 --> 00:00:57,484
+Asia. One of the men chasing it is Pierre Jules Cesar Janssen,
+
+12
+00:00:57,484 --> 00:01:01,668
+forty four years old, a French astronomer who has already
+
+13
+00:01:01,668 --> 00:01:06,214
+watched the Sun from Italy, and who has hauled his instruments
+
+14
+00:01:06,214 --> 00:01:10,832
+to the edge of the Ganges plain at Guntur, in British India. He
+
+15
+00:01:10,832 --> 00:01:14,728
+is not there to admire the corona. He is there with a
+
+16
+00:01:14,728 --> 00:01:19,202
+spectroscope. A slit, a prism, and a spread of light into its
+
+17
+00:01:19,202 --> 00:01:23,603
+colours. Nine years earlier, Gustav Kirchhoff had shown that
+
+18
+00:01:23,603 --> 00:01:28,149
+every chemical element writes its own signature in a spectrum,
+
+19
+00:01:28,149 --> 00:01:32,406
+bright lines at fixed wavelengths. So the question Janssen
+
+20
+00:01:32,406 --> 00:01:37,024
+carries to India is simple. The flaming arcs at the Sun's edge,
+
+21
+00:01:37,024 --> 00:01:39,910
+the prominences. What are they made of?
+
+22
+00:01:41,810 --> 00:01:46,415
+Totality arrives. The dark Moon swallows the disc, and for a few
+
+23
+00:01:46,415 --> 00:01:50,736
+minutes the prominences burn alone, released from the glare.
+
+24
+00:01:50,736 --> 00:01:54,703
+Janssen sees their light split into sharp bright lines.
+
+25
+00:01:54,703 --> 00:01:59,166
+Hydrogen. Sodium. The familiar signatures of things we already
+
+26
+00:01:59,166 --> 00:02:03,487
+knew. And then a yellow line where no yellow line should be.
+
+27
+00:02:03,487 --> 00:02:08,021
+Sodium writes two yellow lines, close together, labelled D1 and
+
+28
+00:02:08,021 --> 00:02:12,413
+D2. This is a third one, a little to one side, at 587 point 6
+
+29
+00:02:12,413 --> 00:02:16,947
+nanometres. It has no owner in the catalogue of known elements.
+
+30
+00:02:16,947 --> 00:02:21,410
+And Janssen notices something better than the line itself. The
+
+31
+00:02:21,410 --> 00:02:25,802
+prominences are so bright that he no longer needs the Moon to
+
+32
+00:02:25,802 --> 00:02:30,123
+see them. He can measure the Sun's atmosphere any clear day,
+
+33
+00:02:30,123 --> 00:02:34,090
+through a narrow slit, with the Sun blazing behind him.
+
+34
+00:02:35,990 --> 00:02:40,200
+Same season, a different island. In London, Norman Lockyer,
+
+35
+00:02:40,200 --> 00:02:44,549
+editor of Nature and a spectroscopist with a telescope in his
+
+36
+00:02:44,549 --> 00:02:48,969
+garden, is running the same race. On the twentieth of October,
+
+37
+00:02:48,969 --> 00:02:53,319
+1868, he records the same yellow line at the edge of the Sun.
+
+38
+00:02:53,319 --> 00:02:57,809
+His letter and Janssen's cross in the post, and are read to the
+
+39
+00:02:57,809 --> 00:03:02,299
+French Academy of Sciences on the same day, the twenty sixth of
+
+40
+00:03:02,299 --> 00:03:06,649
+October. Rather than referee a quarrel, the Academy strikes a
+
+41
+00:03:06,649 --> 00:03:10,999
+medal with both their faces on it. Then Lockyer goes one step
+
+42
+00:03:10,999 --> 00:03:15,559
+further. With the chemist Edward Frankland he tries to reproduce
+
+43
+00:03:15,559 --> 00:03:19,909
+the line in the laboratory. Hydrogen under pressure. Hydrogen
+
+44
+00:03:19,909 --> 00:03:24,259
+under heat. Nothing. And if no substance on Earth writes that
+
+45
+00:03:24,259 --> 00:03:28,468
+line, then the line belongs to a substance not yet found on
+
+46
+00:03:28,468 --> 00:03:32,959
+Earth. They name it after Helios, the Greek Sun. Helium. Fitted
+
+47
+00:03:32,959 --> 00:03:37,519
+with the ium of a metal, because everyone assumed it had to be a
+
+48
+00:03:37,519 --> 00:03:38,010
+metal.
+
+49
+00:03:39,910 --> 00:03:44,423
+Not everyone is convinced. A new element announced in the sky,
+
+50
+00:03:44,423 --> 00:03:48,864
+with no sample, no weight, no density, is a large claim. Some
+
+51
+00:03:48,864 --> 00:03:53,233
+chemists argue the line is an effect of pressure, or a third
+
+52
+00:03:53,233 --> 00:03:57,889
+sodium line that nobody had yet noticed on Earth. And the record
+
+53
+00:03:57,889 --> 00:04:02,545
+needs correcting here, because the tidy version of this story is
+
+54
+00:04:02,545 --> 00:04:07,201
+wrong. Janssen did not name helium, and in 1868 he did not claim
+
+55
+00:04:07,201 --> 00:04:11,785
+a new element. He found the line. Lockyer and Frankland read it
+
+56
+00:04:11,785 --> 00:04:16,226
+as a new one. Two years later, Janssen was trapped inside the
+
+57
+00:04:16,226 --> 00:04:20,739
+siege of Paris, and to reach an eclipse in Algeria he left the
+
+58
+00:04:20,739 --> 00:04:25,109
+city by balloon, on the second of December, 1870. He reached
+
+59
+00:04:25,109 --> 00:04:29,693
+Oran. Cloud covered the Sun. That is the trade: ground truth is
+
+60
+00:04:29,693 --> 00:04:32,200
+occasionally delivered by balloon.
+
+61
+00:04:34,100 --> 00:04:38,383
+Meanwhile, the element had been sitting on a laboratory shelf.
+
+62
+00:04:38,383 --> 00:04:42,190
+In 1888 and again in 1890, the American chemist William
+
+63
+00:04:42,190 --> 00:04:46,473
+Hillebrand treated the uranium mineral uraninite with acid and
+
+64
+00:04:46,473 --> 00:04:50,756
+watched an inert gas bubble off. He tested it. It did nothing.
+
+65
+00:04:50,756 --> 00:04:55,039
+He concluded it was nitrogen, and he published a careful paper
+
+66
+00:04:55,039 --> 00:04:59,458
+about it. He was one element away. In London, William Ramsay had
+
+67
+00:04:59,458 --> 00:05:03,741
+just isolated argon from air with Lord Rayleigh. An unreactive
+
+68
+00:05:03,741 --> 00:05:08,160
+gas that fit no column of Mendeleev's table. Hunting for more of
+
+69
+00:05:08,160 --> 00:05:12,035
+the same, Ramsay read Hillebrand's paper and doubted the
+
+70
+00:05:12,035 --> 00:05:16,386
+nitrogen. He repeated the experiment on cleveite, a uranium ore
+
+71
+00:05:16,386 --> 00:05:20,737
+from Norway, on the twenty sixth of March, 1895, and he put the
+
+72
+00:05:20,737 --> 00:05:25,020
+gas into a glass tube and looked at it through a spectroscope.
+
+73
+00:05:26,920 --> 00:05:31,625
+There it was. The same yellow, at 587 point 6 nanometres, in a
+
+74
+00:05:31,625 --> 00:05:36,405
+tube in a London laboratory. Ramsay sent samples to Lockyer and
+
+75
+00:05:36,405 --> 00:05:41,110
+to William Crookes, whose measurements could be trusted to the
+
+76
+00:05:41,110 --> 00:05:45,218
+last decimal place. Crookes confirmed the identity and
+
+77
+00:05:45,218 --> 00:05:49,624
+telegraphed Paris. The element in the Sun was in a rock in
+
+78
+00:05:49,624 --> 00:05:53,956
+England. In Sweden, Per Teodor Cleve and his student Nils
+
+79
+00:05:53,956 --> 00:05:58,511
+Langlet pulled helium out of the same ore independently, and
+
+80
+00:05:58,511 --> 00:06:03,291
+measured its atomic weight at close to four. The periodic table
+
+81
+00:06:03,291 --> 00:06:08,146
+now had two orphans: argon, which fit nowhere, and helium, which
+
+82
+00:06:08,146 --> 00:06:12,776
+had just turned up where it was supposed to be impossible. In
+
+83
+00:06:12,776 --> 00:06:17,257
+1902 Mendeleev gave the inert gases their own column, group
+
+84
+00:06:17,257 --> 00:06:22,112
+zero, and stopped insisting that this was a mistake. The Sun had
+
+85
+00:06:22,112 --> 00:06:23,680
+corrected the table.
+
+86
+00:06:25,580 --> 00:06:29,824
+But where had it come from? Not from the rock. The rock was only
+
+87
+00:06:29,824 --> 00:06:33,742
+a container. Uranium and thorium in the ore decay through a
+
+88
+00:06:33,742 --> 00:06:37,855
+chain of unstable nuclei, and one of the things they throw off
+
+89
+00:06:37,855 --> 00:06:41,904
+is an alpha particle. Two protons and two neutrons. That is a
+
+90
+00:06:41,904 --> 00:06:45,952
+helium nucleus. It picks up two electrons, and it stops being
+
+91
+00:06:45,952 --> 00:06:50,196
+dangerous and starts being a gas. Trapped in crystal, it can sit
+
+92
+00:06:50,196 --> 00:06:54,179
+there for hundreds of millions of years. Which is why helium
+
+93
+00:06:54,179 --> 00:06:58,032
+comes out of the same wells as natural gas. Both have been
+
+94
+00:06:58,032 --> 00:07:02,145
+seeping out of ancient granite into the same porous traps, for
+
+95
+00:07:02,145 --> 00:07:06,193
+longer than the rock has been rock. The element that lived in
+
+96
+00:07:06,193 --> 00:07:10,372
+the Sun had been under Texas and Kansas the whole time, leaking
+
+97
+00:07:10,372 --> 00:07:10,960
+quietly.
+
+98
+00:07:12,860 --> 00:07:17,151
+Which changes what you can build. Helium is the second lightest
+
+99
+00:07:17,151 --> 00:07:21,308
+gas, and it is inert. It will not burn, and it will not react
+
+100
+00:07:21,308 --> 00:07:25,598
+with anything it touches. During the First World War the United
+
+101
+00:07:25,598 --> 00:07:29,487
+States began extracting it seriously, and by the nineteen
+
+102
+00:07:29,487 --> 00:07:33,577
+twenties airships were filling with it. Which is exactly why
+
+103
+00:07:33,577 --> 00:07:37,733
+1937 looks the way it does. The Hindenburg, seven hundred and
+
+104
+00:07:37,733 --> 00:07:42,024
+sixty feet of hydrogen, burned at Lakehurst, while the American
+
+105
+00:07:42,024 --> 00:07:46,181
+ships flying the same routes were forbidden to sell helium to
+
+106
+00:07:46,181 --> 00:07:50,204
+Germany. But lifting is the easy story. Helium's refusal to
+
+107
+00:07:50,204 --> 00:07:54,494
+react is the whole point. A shield gas for welding titanium and
+
+108
+00:07:54,494 --> 00:07:58,852
+aluminium. A purge gas for engines that cannot tolerate a single
+
+109
+00:07:58,852 --> 00:08:02,942
+stray spark. The gas you fill a leak detector with, when one
+
+110
+00:08:02,942 --> 00:08:04,350
+atom a year matters.
+
+111
+00:08:06,250 --> 00:08:10,600
+And then, in 1908, Heike Kamerlingh Onnes liquefied it, at about
+
+112
+00:08:10,600 --> 00:08:14,817
+four degrees above absolute zero. Nothing else in nature stays
+
+113
+00:08:14,817 --> 00:08:19,033
+liquid below five kelvin. That one property went on to rebuild
+
+114
+00:08:19,033 --> 00:08:23,183
+physics and medicine. Liquid helium cools the superconducting
+
+115
+00:08:23,183 --> 00:08:27,533
+magnets inside a hospital MRI scanner, in the detectors at CERN,
+
+116
+00:08:27,533 --> 00:08:31,683
+and in the magnets that steer protons around the Large Hadron
+
+117
+00:08:31,683 --> 00:08:36,033
+Collider. It holds samples at temperatures where chemistry stops
+
+118
+00:08:36,033 --> 00:08:39,982
+moving. It kept the instruments of the space age cold in a
+
+119
+00:08:39,982 --> 00:08:43,797
+vacuum that was trying to heat them. And when we finally
+
+120
+00:08:43,797 --> 00:08:48,081
+measured the universe honestly, helium came out at about twenty
+
+121
+00:08:48,081 --> 00:08:52,364
+four percent of the mass of all ordinary matter. Second only to
+
+122
+00:08:52,364 --> 00:08:56,581
+hydrogen. Almost all of it made in the first minutes after the
+
+123
+00:08:56,581 --> 00:08:57,250
+Big Bang.
